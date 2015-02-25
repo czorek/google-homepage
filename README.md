@@ -1,6 +1,7 @@
 # google-homepage
-TOP HTML and CSS project
+The Odin Project HTML and CSS assignment
 
-Title: PROJECT: HTML/CSS
+Title: Google homepage - simple version
+
 URL: http://www.theodinproject.com/web-development-101/html-css?ref=lnav
 
